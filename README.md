@@ -1,6 +1,7 @@
 # ReSkill – Platform Edukasi Pengolahan Limbah
 
-ReSkill merupakan platform edukasi berbasis web yang membantu pengguna mempelajari pemilahan dan pengolahan limbah menjadi produk yang memiliki nilai ekonomi. Platform ini menyediakan materi edukasi, tutorial, video pembelajaran, kuis, serta galeri karya daur ulang.
+Permasalahan sampah dan limbah masih menjadi tantangan lingkungan yang perlu mendapatkan perhatian. Banyak limbah rumah tangga yang sebenarnya masih dapat dimanfaatkan, tetapi belum dikelola dengan baik. Kurangnya pengetahuan mengenai pemilahan dan pengolahan limbah menyebabkan barang yang masih memiliki nilai guna sering kali berakhir sebagai sampah. Padahal, melalui pengolahan yang tepat, limbah dapat diubah menjadi produk baru yang bermanfaat bahkan memiliki nilai ekonomi.
+Oleh karena itu, dibutuhkan media edukasi yang dapat membantu masyarakat mengenali jenis limbah, memahami cara pengolahannya, serta memperoleh panduan untuk memanfaatkan limbah secara lebih kreatif dan bertanggung jawab.
 
 ## Tujuan Proyek
 
