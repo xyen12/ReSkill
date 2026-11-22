@@ -105,11 +105,6 @@ require_once __DIR__ . '/../includes/header.php';
             Moderasi Galeri
         </a>
 
-        <a class="btn btn-outline"
-           href="<?= e(url('modules/progress/index.php')) ?>">
-            Laporan Aktivitas
-        </a>
-
     </div>
 
 </div>
